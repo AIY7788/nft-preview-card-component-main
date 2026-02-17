@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+  --color-blue-500: hsl(215, 51%, 70%);
+  --color-cyan-400: hsl(178, 100%, 50%);
+  --color-main: hsl(217, 54%, 11%);
+  /* main bg */
+  --color-card: hsl(216, 50%, 16%);
+  /* card bg */
+  --color-line: hsl(215, 32%, 27%);
+  /* line */
+  --color-white: hsl(0, 0%, 100%);
+  --font-family: "Outfit", Arial, Helvetica, sans-serif;
+  --font-weight-normal: 300;
+  --font-weight-medium: 400;
+  --font-weight-bold: 600;
+  --text-base: 1.125rem;
+}
